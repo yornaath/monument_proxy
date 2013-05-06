@@ -10,7 +10,6 @@
   "author": "",
   "license": "BSD",
   "dependencies": {
-    "express": "~3.2.1",
     "bouncy": "~3.1.1"
   }
 }
